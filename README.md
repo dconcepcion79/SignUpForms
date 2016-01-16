@@ -1,3 +1,3 @@
 # SignUpForms
-WP Signup forms-Marketing 
-Please create a branch for adding backoffice API's them merger back for proper implementation. 
+## Real simple HTML5/CSS/JS/J-Query Forms 
+###Designed by DSC-2015 for YIPYV
